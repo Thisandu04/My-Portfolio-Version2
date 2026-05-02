@@ -38,7 +38,7 @@ const RESUME_FILES = [
     title: 'Full Resume',
     desc: 'Complete work history, skills, education, and achievements. Best for recruiters and ATS systems.',
     tags: ['PDF', '2 pages', 'Updated Apr 2026'],
-    file: '/resume/Thisandu_Dahanayake_Resume.pdf',   // 👈 update this path
+    file: `/resume/Thisandu_Dahanayake_Resume.pdf`,  
     primary: true,
   },
 ];
