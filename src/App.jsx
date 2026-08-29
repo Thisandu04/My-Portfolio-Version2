@@ -173,6 +173,14 @@ const BLOG_POSTS = [
     desc: 'An overview of the CIA Triad (Confidentiality, Integrity, Availability) as the cornerstone of cybersecurity practices and real-world applications.',
     url: 'https://medium.com/@thisandu2004sethmitha/introduction-to-the-cia-triad-the-foundation-of-cyber-security-3bc64089d9c6',
   },
+
+  {
+    img: 'Pictures/Screenshot 2026-08-28 190731.png',
+    alt: 'Explainable AIBlog Thumbnail',
+    title: 'Explainable AI (XAI): Making Artificial Intelligence Easy to Understand',
+    desc: 'This blog post introduces Explainable AI (XAI), a field dedicated to making AI decision-making transparent and easy to understand rather than a mysterious "black box." It explains why understanding how AI makes its choices is essential for building human trust, ensuring fairness, and safely using AI in critical areas like healthcare and self-driving cars.',
+    url: 'https://medium.com/@thisandu2004sethmitha/explainable-ai-xai-making-artificial-intelligence-easy-to-understand-92136a63d79c?sharedUserId=thisandu2004sethmitha',
+  },
 ];
 
 const CERTIFICATES = [
